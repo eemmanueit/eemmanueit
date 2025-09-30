@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Edner Emmanuel
-- 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Cybersecurity on Coursera
+- 👀 I’m interested in SOC Analyst, GRC, or Cybersecurity Engineer
+- 🌱 I Graduated the TryHackMe Cybersecurity 101 ourse and have a Certification on it.
 - 💞️ I’m looking to collaborate on with others to gorw in knowledlge.
 - 📫 How to reach me eemmanue@proton.me
 - 😄 Pronouns: He/Him
