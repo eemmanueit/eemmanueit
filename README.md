@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/eemmanueit/eemmanueit/main/assets/portfolio-banner.svg" alt="Edner Emmanuel. Systems, security, automation and continuous improvement." width="100%">
 </p>
 
-# Welcome to my professional portfolio
+# <img src="https://raw.githubusercontent.com/eemmanueit/eemmanueit/main/assets/section-welcome.svg" alt="Welcome to my professional portfolio" width="100%">
 
 **IT System Administrator & Infrastructure Security Specialist**
 
@@ -12,7 +12,7 @@ ServiceNow Certified System Administrator (CSA)
 
 I engineer secure, resilient enterprise systems and turn repetitive operational work into reliable automation. My work connects infrastructure administration, cybersecurity, platform governance, and measurable process improvement.
 
-## Professional profile
+## <img src="https://raw.githubusercontent.com/eemmanueit/eemmanueit/main/assets/section-professional-profile.svg" alt="Professional profile" width="100%">
 
 I am an enterprise IT System Administrator with a decade of experience administering systems, securing networks, and engineering workflow automations across Windows, Linux, and ServiceNow environments. At the University of Miami, I support critical infrastructure at the intersection of business continuity, proactive cybersecurity, and platform governance.
 
@@ -20,7 +20,7 @@ My background bridges technical execution and regulatory compliance. I build sol
 
 > **Engineering philosophy:** Use automation to remove preventable work, security controls to reduce exposure, and clear operational evidence to make technology trustworthy.
 
-## Enterprise impact
+## <img src="https://raw.githubusercontent.com/eemmanueit/eemmanueit/main/assets/section-enterprise-impact.svg" alt="Enterprise impact" width="100%">
 
 | Outcome | Professional context |
 | --- | --- |
@@ -31,7 +31,7 @@ My background bridges technical execution and regulatory compliance. I build sol
 
 These figures summarize the professional outcomes and risk estimates described in my portfolio. The $20M+ figure is potential risk exposure, not realized financial savings.
 
-## Core capabilities
+## <img src="https://raw.githubusercontent.com/eemmanueit/eemmanueit/main/assets/section-core-capabilities.svg" alt="Core capabilities" width="100%">
 
 | Focus | Tools and practice |
 | --- | --- |
@@ -40,7 +40,7 @@ These figures summarize the professional outcomes and risk estimates described i
 | Automation engineering | PowerShell, Bash, Python and JavaScript for onboarding, user lifecycle operations, log analysis and repeatable workflows. |
 | Platform and process improvement | ServiceNow governance, workflow design, dashboards, KPIs, data integrity, SOP development and Lean Six Sigma. |
 
-## Featured work
+## <img src="https://raw.githubusercontent.com/eemmanueit/eemmanueit/main/assets/section-featured-work.svg" alt="Featured work" width="100%">
 
 ### ServiceNow and workflow automation
 
@@ -56,7 +56,7 @@ The **Apollo Hospitals Hospitality Service Excellence Initiative** is a Green Be
 
 [Read my portfolio overview →](https://eemmanueit.github.io/#work)
 
-## Credentials and continuous learning
+## <img src="https://raw.githubusercontent.com/eemmanueit/eemmanueit/main/assets/section-credentials-learning.svg" alt="Credentials and continuous learning" width="100%">
 
 My credential portfolio includes ServiceNow CSA, Google IT Support, Microsoft IT, HDI Desktop Advanced Support, TryHackMe cybersecurity learning, generative AI and Agile professional learning.
 
@@ -66,7 +66,7 @@ My credential portfolio includes ServiceNow CSA, Google IT Support, Microsoft IT
 
 [Open the Google Drive credential library →](https://drive.google.com/drive/folders/1tM-Bg66VVEB9Lb85y7GvCV5SzXv8VbEn?usp=sharing)
 
-## Let's connect
+## <img src="https://raw.githubusercontent.com/eemmanueit/eemmanueit/main/assets/section-lets-connect.svg" alt="Let's connect" width="100%">
 
 Whether you are looking to secure critical infrastructure, scale ServiceNow workflows, strengthen continuity planning or optimize enterprise IT operations, I welcome the opportunity to connect.
 
